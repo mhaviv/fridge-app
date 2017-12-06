@@ -1,0 +1,20 @@
+.items {
+  margin: 0 auto;
+  width: 50%;
+  border: 0.3em solid white;
+  padding: 20px;
+  font-size: 1.3em;
+}
+
+.items h1 {
+  text-align: center;
+  color: #5CB84E;
+}
+
+.items .is-expired {
+  color: red;
+}
+
+button {
+  margin-left: 0.7em;
+}
